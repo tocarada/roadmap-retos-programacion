@@ -1,0 +1,20 @@
+# https://www.python.org/
+# esto es un comentario
+"""
+esto es un comentario
+en varias lineas
+"""
+'''
+esto es un comentario
+en varias lineas
+'''
+my_variable = 'esto es una variable'
+MY_CONSTANTE = 'ESTO ES UNA CONSTANTE RELATIVA SE PUEDE PERO NO SE DEBE MODIFICAR'
+# tipos de datos
+cadena = ' str. son string o cadena de palabras'
+entero = 5 # int es un munero entero
+decimal = 1.2 # float es un numero decimal
+boleano = True # bool boleanos puede tener el valor de True o False
+
+idioma_elegido = 'Pythom'
+print(f'¡Hola, {idioma_elegido}!')
